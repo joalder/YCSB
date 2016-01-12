@@ -67,7 +67,7 @@ requestdistribution=zipfian
 
 # How the latency measurements are presented
 #measurementtype=histogram
-measurementtype=timeseries
+#measurementtype=timeseries
 #measurementtype=raw
 # When measurementtype is set to raw, measurements will be output
 # as RAW datapoints in the following csv format:
