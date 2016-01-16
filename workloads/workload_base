@@ -64,6 +64,8 @@ insertorder=hashed
 # The distribution of requests across the keyspace
 requestdistribution=zipfian
 
+# Maximum execution time in seconds
+maxexecutiontime=1200
 
 # How the latency measurements are presented
 #measurementtype=histogram
