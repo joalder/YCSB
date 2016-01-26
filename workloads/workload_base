@@ -67,6 +67,10 @@ requestdistribution=zipfian
 # Maximum execution time in seconds
 maxexecutiontime=1200
 
+# Cassandra consistency levels
+cassandra.readconsistencylevel=ONE
+cassandra.writeconsistencylevel=QUORUM
+
 # How the latency measurements are presented
 #measurementtype=histogram
 #measurementtype=timeseries
