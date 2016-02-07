@@ -69,7 +69,7 @@ maxexecutiontime=1200
 
 # Cassandra consistency levels
 cassandra.readconsistencylevel=ONE
-cassandra.writeconsistencylevel=QUORUM
+#cassandra.writeconsistencylevel=QUORUM
 
 # How the latency measurements are presented
 #measurementtype=histogram
