@@ -35,7 +35,7 @@ workload=com.yahoo.ycsb.workloads.CoreWorkload
 # The number of records in the table to be inserted in
 # the load phase or the number of records already in the 
 # table before the run phase.
-recordcount=1000000
+recordcount=5000000
 
 # There is no default setting for operationcount but it is
 # required to be set.
