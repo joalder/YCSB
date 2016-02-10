@@ -40,7 +40,7 @@ recordcount=1000000
 # There is no default setting for operationcount but it is
 # required to be set.
 # The number of operations to use during the run phase.
-operationcount=10000000
+operationcount=40000000
 
 # The number of fields in a record
 fieldcount=10
