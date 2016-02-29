@@ -68,8 +68,8 @@ requestdistribution=zipfian
 maxexecutiontime=1200
 
 # Cassandra consistency levels
-cassandra.readconsistencylevel=QUORUM
-cassandra.writeconsistencylevel=QUORUM
+cassandra.readconsistencylevel=ALL
+cassandra.writeconsistencylevel=ALL
 
 # How the latency measurements are presented
 #measurementtype=histogram
